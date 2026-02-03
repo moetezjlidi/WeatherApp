@@ -165,16 +165,16 @@ Launch the command-line interface:
 ```
 Welcome to the weather app
 
-Input your command please (tape 'help' for see all commands) : weather
+Input your command please (type 'help' for see all commands) : weather
 
 Input your city : Paris
 Input a date (dd/MM/yyyy) : 05/02/2026
 
-On 05/02/2026 in Paris, it's will be :
+On 05/02/2026 in Paris, it will be :
 8 °C in the morning.
 12 °C in the afternoon.
 10 °C in the evening.
-It will have clear sky.
+There will be a clear sky.
 ```
 
 ## Building and Testing
